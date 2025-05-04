@@ -40,7 +40,7 @@ This CNC Plotter project uses:
 - 3 × 28BYJ-48 Stepper Motors
 - 3 × ULN2003 Driver Modules
 - Wooden or Acrylic CNC Frame
-- 5V Power Supply or USB
+- 5V Power Supply and USB
 
 
 ---
@@ -51,14 +51,14 @@ This CNC Plotter project uses:
 |--------------------------------------|-------------|
 | Mohamed Ebrahim Hamed                | Team Leader |
 | Mohamed Mahmoud Khalil Bakr         | Member      |
-| Mohamed Mohamed Aboul Enein         | Member      |
-| Islam Mohamed Ragab El-Gawish       | Member      |
+| Mohamed Mohamed Abou Elenin         | Member      |
+| Eslam Mohamed Ragab El-Gawessh       | Member      |
 | Hossam Youssef Mohamed Dawaly       | Member      |
 | Mariam Mohamed Mohamed El-Sayed     | Member      |
-| Rodha Mohamed Ebrahim Rizk          | Member      |
+| Rawda Mohamed Ebrahim Rizk          | Member      |
 | Wafaa Mohamed Fahmy Hegazy          | Member      |
 | Fatma Shehata Owais Zeidan          | Member      |
-| Eshraq Abd El-Nasser Efat           | Member      |
+| Ashraqat Abd El-Nasser Efat           | Member      |
 | Lobna Saad Salah Ismail             | Member      |
 | Shahd Sorour Lotfy Abdeltawab Sheta | Member      |
 
