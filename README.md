@@ -72,6 +72,6 @@ This CNC Plotter project uses:
 
 ## 📬 Contact
 
-For questions, feedback, or collaboration, open an issue on [GitHub](https://github.com/mohamed-ebrahim-hamed/CNC-Plotter/issues).
+For questions, feedback, or collaboration, open an issue on [Linkedin](www.linkedin.com/in/mohamed-ebrahim-hamed).
 
 ---
