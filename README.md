@@ -30,7 +30,7 @@ This CNC Plotter project uses:
 |--------|-------------|
 | <img src="Media/Project_image%20(1).jpg" width="300"/> | CNC Plotter setup |
 | <img src="Media/Team_picture%20(1).jpg" width="300"/> | Our team at work |
-| 🎥 [Watch Demo Video](Media/Result_Video.mp4) | Final result in action |
+| 🎥 [Watch Demo](https://drive.google.com/file/d/186P1N-nVAc6E_G6NiEDZgg4DzKEIMGk1/view?usp=drive_link) | Final result in action |
 
 ---
 
