@@ -28,7 +28,7 @@ This CNC Plotter project uses:
 
 | Preview | Description |
 |--------|-------------|
-| ![](Media/Project_image%20(1).jpg) | CNC Plotter setup |
+| ![]("D:\Downloads\IMG20250509184020.jpg") | CNC Plotter setup |
 | ![](Media/Team_picture%20(1).jpg) | Our team at work |
 | 🎥 [Watch Demo](Media/Result_Video.mp4) | Final result in action |
 
